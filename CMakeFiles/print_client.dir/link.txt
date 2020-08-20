@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/print_client.dir/print_client.cpp.o  -o print_client -lpthread -lboost_system 

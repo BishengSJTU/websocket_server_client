@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bisheng/websocket_client_server/server.cpp
+iostream
+-
+websocketpp/config/asio_no_tls.hpp
+-
+websocketpp/server.hpp
+-
+unistd.h
+-
+

@@ -1,0 +1,4 @@
+/home/bisheng/websocket_client_server/CMakeFiles/rebuild_cache.dir
+/home/bisheng/websocket_client_server/CMakeFiles/server.dir
+/home/bisheng/websocket_client_server/CMakeFiles/edit_cache.dir
+/home/bisheng/websocket_client_server/CMakeFiles/client.dir
